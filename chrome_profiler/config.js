@@ -2,7 +2,7 @@
 exports.config = {
     host: '127.0.0.1',
     port: 10086,
-    chromePath: ' /usr/bin/google-chrome'// your chrome's path
+    chromePath: '/Applications/Google Chrome.app/Contents/MacOS/Google Chrome'
 };
 
 /* database config */

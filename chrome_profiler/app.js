@@ -346,6 +346,7 @@ async function main() {
         /* init db */
         db = new DB({dlimit: 150});
         /* start Chrome */
+        debugger;
         const chrome = await launcher.launch(config);
         /* run */
         console.log('************ begin! ************');

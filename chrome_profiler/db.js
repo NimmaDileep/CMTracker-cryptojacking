@@ -169,7 +169,7 @@ class DB {
             profilerUrlId: id,
             time: time,
             url: url,
-            requestId, requestId,
+            requestId,
             cat: cat,
             init: init,
             sourceUrl: sourceUrl,

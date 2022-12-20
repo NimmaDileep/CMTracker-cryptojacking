@@ -18,8 +18,9 @@
     "chrome-launcher": "^0.10.2",
     "chrome-remote-interface": "^0.25.5",
     "commander": "^2.13.0",
+    "d": "^1.0.1",
     "md5": "^2.2.1",
-    "mysql2": "^1.5.1",
+    "mysql2": "^1.5.3",
     "redis": "^2.8.0"
   }
 }
